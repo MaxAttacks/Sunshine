@@ -1,2 +1,2 @@
 # Sunshine
-Udicity lesson project
+Udacity lesson project
